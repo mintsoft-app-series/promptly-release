@@ -35,20 +35,6 @@ Test Claude, GPT, Gemini, Mistral, and Groq APIs in one powerful desktop applica
 | macOS | macOS 10.15 or later | [Promptly.dmg](https://github.com/mintsoft-app-series/promptly-app/releases/latest) |
 | Linux | Ubuntu 18.04+ | [Promptly.AppImage](https://github.com/mintsoft-app-series/promptly-app/releases/latest) |
 
-## Development
-
-```bash
-# Install dependencies
-npm install
-
-# Run in development mode
-npm run electron:dev
-
-# Build for specific platform
-npm run build:win     # Windows
-npm run build:mac     # macOS
-npm run build:linux   # Linux
-```
 
 ## Tech Stack
 
