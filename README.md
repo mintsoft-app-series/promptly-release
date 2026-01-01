@@ -44,14 +44,6 @@ sudo xattr -rd com.apple.quarantine /Applications/Promptly.app
 ```
 
 
-## Tech Stack
-
-- **Framework**: Electron
-- **Frontend**: React + TypeScript
-- **UI**: Tailwind CSS + Radix UI
-- **State**: Zustand
-- **Storage**: electron-store (encrypted)
-
 ## Links
 
 - [Website](https://promptly.mint-soft.com/)
